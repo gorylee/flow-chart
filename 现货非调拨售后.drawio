@@ -90,9 +90,6 @@
         <mxCell id="eGbgCsMsqUFKKg6QM9Z_-25" value="物流文员审批" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="960" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eGbgCsMsqUFKKg6QM9Z_-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eGbgCsMsqUFKKg6QM9Z_-29" target="eGbgCsMsqUFKKg6QM9Z_-37" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="TQtpK1dsAZfY7Ud7Wez9-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eGbgCsMsqUFKKg6QM9Z_-29" target="eGbgCsMsqUFKKg6QM9Z_-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
